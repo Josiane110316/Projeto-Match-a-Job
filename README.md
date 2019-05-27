@@ -1,7 +1,7 @@
-Usu·rios para testes
+Usu√°rios para testes
 ----
 
-Devido ao fato da aplicaÁ„o possuir 3 tipos de contas e a implantaÁ„o com um banco de dados ainda n„o ter sido feita, a validaÁ„o por tipo de usu·rio È feita atravÈs do texto inserido no campo de login (Email). Para navegar siga o exemplo abaixo:
+Devido ao fato da aplica√ß√£o possuir 3 tipos de contas e a implanta√ß√£o com um banco de dados ainda n√£o ter sido feita, a valida√ß√£o por tipo de usu√°rio √© feita atrav√©s do texto inserido no campo de login (Email). Para navegar siga o exemplo abaixo :
 
 | Username (E-mail)      | Tipo de login |
 |  -----: | -----:|
@@ -9,4 +9,4 @@ Devido ao fato da aplicaÁ„o possuir 3 tipos de contas e a implantaÁ„o com um ban
 | candidato     |   candidato |
 | mentor      |    mentor |
 
-<b>OBS:</b> O campo n„o È key sensitive.
+<b>OBS:</b> O campo n√£o √© key sensitive.
